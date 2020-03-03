@@ -1,0 +1,16 @@
+References 
+:: 40.media.tumblr.com/901187b4714a884f170be74b94c04f11/tumblr_mnbacjSSWe1rib0k5o1_400.png
+:: kandipatterns.com/images/patterns/characters/4425-Eevee_and_Ampharos_Fusion.png
+
+================== Eevee (Model)
+------- www.yobi3d.com/v/vNuYlKjv4x/Eevee.obj
+
+================== Metalgarurumon (Accessories)
+------- www.yobi3d.com/v/Zx0w2KCSO5/MetalGarurumon.obj
+
+================== Scenery (Landscape)
+------- tf3dm.com/3d-model/old-fashion-town-88316.html
+===== Road Texture
+-- cloud-2.steamusercontent.com/ugc/1118288012667139963/161C3E70EDA60F1C3A292712149EE54BDFFFB326/
+===== Wall Texture
+-- www.freelargeimages.com/wp-content/uploads/2015/07/Wall_Texture_03.jpg
